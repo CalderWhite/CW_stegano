@@ -1,5 +1,5 @@
 # CW_stegano
-[![PyPI](https://img.shields.io/badge/pypi-v1.0.5-blue.svg)](https://pypi.python.org/pypi?:action=display&name=CW_stegano&version=1.0.5)    
+[![PyPI](https://img.shields.io/badge/pypi-v1.0.6-blue.svg)](https://pypi.python.org/pypi?:action=display&name=CW_stegano&version=1.0.6)    
 A fun little python script that encodes and decodes strings and images    
 
 (derived from steganography)
